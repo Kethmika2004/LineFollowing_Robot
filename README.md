@@ -67,6 +67,5 @@ The codes are written to be **modular**, **efficient**, and **competition-ready*
 
 ## 👤 Author
 **Yasandu Kethmika**  
-Computer Science and Engineering Undergraduate 
-University of Moratuwa  
+Computer Science and Engineering Undergraduate - University of Moratuwa  
 
